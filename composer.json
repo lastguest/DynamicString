@@ -1,0 +1,22 @@
+{
+    "name": "lastguest/DynamicString",
+    "type": "library",
+    "description": "Template based random string generator",
+    "keywords": ["generator","template","random","grammar"],
+    "homepage": "https://github.com/lastguest/DynamicString",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefano Azzolini",
+            "email": "lastguest@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": [ "src/" ]
+    }
+}
