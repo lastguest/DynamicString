@@ -10,7 +10,7 @@
 Install via [composer](https://getcomposer.org/download/):
 
 ```bash
-$ composer require lastguest/dynamic-string -o
+$ composer require lastguest/dynamic-string
 ```
 
 ### How to use
