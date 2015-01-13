@@ -6,7 +6,7 @@
  * @author Stefano Azzolini <lastguest@gmail.com>
  */
 
-class  DynamicString {
+class DynamicString {
 
     protected $group_left,
               $group_right,
