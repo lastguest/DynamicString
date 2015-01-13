@@ -11,4 +11,4 @@ matrix:
         - php: hhvm
 
 
-script: "php ./tests/run_tests.php"
+script: "php ./src/DynamicString.php"
