@@ -3,6 +3,7 @@
 > Generate random strings from templates.
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lastguest/DynamicString/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lastguest/DynamicString/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/lastguest/dynamic-string/v/stable.svg)](https://packagist.org/packages/lastguest/dynamic-string) [![Total Downloads](https://poser.pugx.org/lastguest/dynamic-string/downloads.svg)](https://packagist.org/packages/lastguest/dynamic-string) [![Latest Unstable Version](https://poser.pugx.org/lastguest/dynamic-string/v/unstable.svg)](https://packagist.org/packages/lastguest/dynamic-string) [![License](https://poser.pugx.org/lastguest/dynamic-string/license.svg)](https://packagist.org/packages/lastguest/dynamic-string)
 
 ## Installation
 
