@@ -71,6 +71,10 @@ Output:
 private function(array myVar){};
 ```
 
+### Other examples
+
+See [wiki](https://github.com/lastguest/DynamicString/wiki) for other examples. (a fun fantasy story generator)
+
 ## License (MIT)
 
 Copyright (c) 2015 Stefano Azzolini
