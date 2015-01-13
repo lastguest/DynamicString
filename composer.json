@@ -1,5 +1,5 @@
 {
-    "name": "lastguest/DynamicString",
+    "name": "lastguest/dynamic-string",
     "type": "library",
     "description": "Template based random string generator",
     "keywords": ["generator","template","random","grammar"],
